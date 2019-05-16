@@ -1,0 +1,5 @@
+ena html me head kai body me bootstrap me dyo kolones 
+me mia forma kai kati akomi kai na paixsw me sizes kiniton tablet pc
+
+δες και το DOM API της javascript
+statements expressions της jacascript

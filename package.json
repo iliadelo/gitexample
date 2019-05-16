@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1.0.1",
+  "description": "fullstack javascript example package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codehub",
+    "regeneration",
+    "fullstack",
+    "javascript"
+  ],
+  "author": "lelos45",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
